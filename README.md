@@ -10,7 +10,7 @@ Because Sharing is Caring.
 ## List of categories
 
 * [HTML](https://github.com/fac-17/resources/blob/master/html.md)
-* [CSS](https://github.com/fac-17/resources/blob/master/css.md)
+* [Styling](https://github.com/fac-17/resources/blob/master/styling.md)
 * [Javascript](https://github.com/fac-17/resources/blob/master/javascript.md)
 * [Git/GitHub](https://github.com/fac-17/resources/blob/master/git.md)
 * [General design](https://github.com/fac-17/resources/blob/master/design.md)
