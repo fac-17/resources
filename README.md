@@ -1,26 +1,25 @@
 # RESOURCES
 
 Shout out to @@jokosanyang for setting this up!!
-This repo is a place to store all the wonderful resources we've stumbled across and gushed over.
 
+
+This repo is a place to store all the wonderful resources we've stumbled across and gushed over.
 Because Sharing is Caring.
 
 
 ## List of categories
 
-* [HTML](https://github.com/fac-17/resources/blob/master/HTML.md)
-* [CSS](https://github.com/fac-17/resources/blob/master/CSS.md)
-* [Javascript](https://github.com/fac-17/resources/blob/master/Javascript.md)
-* [Git/GitHub](https://github.com/fac-17/resources/blob/master/Git%20%26%20GitHub.md)
-* [General design](https://github.com/fac-17/resources/blob/master/General%20design.md)
-* [Tools/Generators](https://github.com/fac-17/resources/blob/master/Tools.md)
+* [HTML](https://github.com/fac-17/resources/blob/master/html.md)
+* [CSS](https://github.com/fac-17/resources/blob/master/css.md)
+* [Javascript](https://github.com/fac-17/resources/blob/master/javascript.md)
+* [Git/GitHub](https://github.com/fac-17/resources/blob/master/git.md)
+* [General design](https://github.com/fac-17/resources/blob/master/design.md)
+* [Tools/Generators](https://github.com/fac-17/resources/blob/master/tools.md)
 * [Design Bursts](https://github.com/foundersandcoders/design-bursts)
-* [External Talks](https://github.com/fac-17/resources/blob/master/external-talks.md)
-* [Node.js](https://github.com/fac-17/resources/blob/master/NodeJs.md)
-* [RDBMS](https://github.com/fac-17/resources/blob/master/RDBMS.md)
-* [Job search](https://github.com/fac-17/resources/blob/master/job-search.md)
-* [Meetups $ Hackathons](https://github.com/fac-17/resources/blob/master/Meetups.md)
-* [Miscellaneous](https://github.com/fac-17/resources/blob/master/Miscellaneous.md)
+* [Talks](https://github.com/fac-17/resources/blob/master/talks.md)
+* [Node.js](https://github.com/fac-17/resources/blob/master/node.md)
+* [Job search](https://github.com/fac-17/resources/blob/master/jobs.md)
+* [Meetups](https://github.com/fac-17/resources/blob/master/meetups.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
