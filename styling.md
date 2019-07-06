@@ -13,4 +13,5 @@
 |[CSSTricks guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)| Quick reference for flexbox properties|Reuben|
 |[CSStricks guide to centering things in css](https://css-tricks.com/centering-css-complete-guide/)|Because we all know how infuriatinng this is and how inadequate it makes us feel. Do yourself a favour and stop letting css bully you.(quick tip: USE FLEXBOX)|Reuben|
 |[Styling buttons, the right way](https://fvsch.com/styling-buttons/)|handy guide on styling buttons and their various states|Reuben|
+|[Self-hosting Google Fonts](https://medium.com/clio-calliope/making-google-fonts-faster-aadf3c02a36d)|Interesting article about possible latency issues when embedding google fonts as an external style sheet. provides instructions on self-hosting google font files|Reuben|
 |[CSS Float Theory](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)| If you're feeling upset with css, just be glad we dont really have to use floats anymore. This article may cause severe anxiety.(no seriously don't open this link, learn flexbox and grid instead!!!!)|Reuben|
