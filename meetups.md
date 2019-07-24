@@ -10,7 +10,7 @@
 |[JS Monthly](https://www.meetup.com/js-monthly/) | Monthly Javascript meetups | @teenie-quaggard |
 |[React London](https://meetup.react.london/)| Monthly React meetup | @teenie-quaggard |
 |[setState](https://www.meetup.com/setState-London/)| React and Frontend meetup | @teenie-quaggard |
-| | | |
+|[Frontend London](https://www.frontendlondon.co.uk/)| Meetup hosted by Made by Many | @teenie-quaggard |
 | | | |
 | | | |
 | | | |
